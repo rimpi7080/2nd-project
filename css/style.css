@@ -1,0 +1,125 @@
+body{
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+    color: white;
+    background-color: black;
+    margin: 0;
+   
+}
+.top-part{
+    background-color: #395B64;
+    position: relative;
+    padding: 50px;
+}
+h1{
+    font-family: 'Satisfy', cursive;
+    color: #ECCCB2;
+    font-size: 50px; 
+    margin: 50px auto 2.5rem;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color: #F0EABE;
+    padding-bottom: 10px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 315px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom:304px;
+    left: 371px;
+}
+.middle-part{
+    padding-top: 45px;
+    padding-right: 30px;
+}
+.my-img{
+width: 150px;
+height: 150px;
+border-radius: 100%;
+border: 5px solid #D61C4E;
+}
+.intro{
+    width: 50%;
+    font-size: 20px;
+    margin: auto;
+}
+p{
+line-height: 2;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    margin: 50px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+h3{
+    font-family: 'Satisfy', cursive;
+    color: #E8F9FD;
+}
+.first-icon{
+    width: 133px;
+    float: left;
+    margin-right: 60px;
+}
+.second-icon{
+    width: 133px;
+    float: right;
+    margin-left: 60px;
+}
+.third-icon{
+    width: 133px;
+    float: left;
+    margin-right: 60px;
+}
+.contact-part{
+    width: 50%;
+    margin: 50px auto;
+}
+
+.buttonClass {
+    font-size:16px;
+    font-family: 'DynaPuff', cursive;
+    text-decoration: none;
+padding: 9px 13px;
+    border-width:0px;
+    color:#fff;
+    border-color:rgba(80, 182, 219, 1);
+    font-weight:bold;
+    font-style:italic;
+    border-top-left-radius:21px;
+    border-top-right-radius:21px;
+    border-bottom-left-radius:21px;
+    border-bottom-right-radius:21px;
+    box-shadow: 0px 10px 18px -7px rgba(30, 108, 121, 1);
+    background:linear-gradient(rgba(91, 156, 179, 1), rgba(36, 140, 158, 1));
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(36, 140, 158, 1), rgba(91, 156, 179, 1));
+  }
+.footer-part{
+    background-color: #2C3333;
+    padding: 40px;
+    margin: 27px auto 0;
+  
+}   
+.footer-link{
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 30px;
+  }
+  .footer-link:hover{
+    color: white;
+  }         
